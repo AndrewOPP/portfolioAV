@@ -2,6 +2,7 @@
   "name": "starter",
   "private": true,
   "version": "0.0.0",
+  "homepage": "http://AndrewOPP.github.io/portfolioAV",
   "type": "module",
   "scripts": {
     "dev": "vite",
